@@ -1,0 +1,16 @@
+# Data-structures-and-algorithms
+Time Complexity
+It is the time taken by an algorithm as a function of the length of the input. It tells the running time or performance of a program as the size of input is varied.
+It helps us to determine the scalabilty of an algorithm. It is necessary to understand which is the most efficient and optimised method to use in an application.
+
+The most common time complexities include: Constant O(1),    Linear O(n),    Logarithmic O(log n)     Quadratic O(n^2)      Exponential O(2^n)
+
+Considering runtime of an algorithm there is worst average and best case scenario, which all have different time complexities.
+
+Constant Complexity - It will always run in the same amount of time no matter the input size.
+
+Linear Complexity - if the time taekn increases linearly with the increase in the number of inputs. The more elements there are the longer it takes.
+
+Quadratic Time Complexity - The algorithm varies with the square of the problem size n.
+
+Logarithmic Time complexity- Associated with binary search algorithm that searches by doing necessary halvings to getthe item being seached for.
