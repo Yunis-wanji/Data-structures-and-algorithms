@@ -2,6 +2,6 @@ What is Big O
 The Big O is simply a way to test how fast as well as how efficient an algorithm is. 
 The key number of of opertaions required by the algorithm.
 
-Algorithm are the step series taken towradssolving a given problem.
+Algorithm are the step series taken towrads solving a given problem.
 
 Big O is essentially measuring the rate of growth in time for algorithm with reference to size of input.
