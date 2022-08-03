@@ -1,0 +1,19 @@
+SPACE COMPLEXITY
+Space complexity is the total amount of memory space used by an algorithm/program including space of input values for execution and production.
+Because a program requires memory to store input data and temporal values while running,the space complexity is auxiliary input space.
+A good algorithm executes quickly and saves space in the process.
+Space complexity also helps the developer to know about the worst case of the algorithm so as to improve that algorithm to perform the worst case also.
+
+The best algorithm should have low level of space complexity less space required, the faster it executes.
+
+Auxiliary space -> Extra space used by the algorithm during execution 
+Space complexity = Auxillary Space+Input Space
+
+Memory Usage while Execution
+     1  Instruction space
+Amount of memory used to save the compile version of instructions.
+    2. Environmental Stack
+An algorithm(function) may be called inside another algorithm(function). Such a situation, current variables are pushed onto the system stack while they wait for further execution and then a call to the inside algorithm(function) is made.
+      3.Data Space
+Amount of space used by the variables and constants.
+
