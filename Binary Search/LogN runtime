@@ -1,1 +1,15 @@
+LogN Runtime
+Represented in Big O notation as O(log n), when an algorithm has O(log n) running time, it means that as the input size grows, the number of operations grows very slowly
+This is the time complexity of divide and conquer sorting algorithms
+N is the input size(number of elements)
+Log N is the logarithm to the base of 2
+
+In the divide and conquer approach, we divide the problem into subproblems(divide) and solve them separately and then combine the solutions(conquer).
+When the list of input size n is divided into two halves, we get the log n time complexity.
+O(log(n)) algorithms never have to look at *all* of the input. They usually work by discarding large chunks of unexamined input with each step
+
+
+
+Binary search’s time complexity(which is not divide and conquer approach but divides the list into two halves) is O(log n) with each step of a binary search, you rule out an entire half of the space you're searching, without having to examine what's in it.
+Since you can only split a space of n elements in half log2(n) times before you're only looking at one item, you must have zeroed in on the desired element after log2(n) steps at the worst. Therefore, binary search works in O(log(n)) time.
 
