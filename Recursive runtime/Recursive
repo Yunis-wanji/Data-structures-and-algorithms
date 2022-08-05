@@ -1,0 +1,7 @@
+Recursive runtime
+A recursive algorithm calls itself which usually passes the return value as a parameter to the algorithm again. 
+This parameter is the input while the return value is the output.
+Recursive algorithm is a method of simplification that divides the problem into subproblems of the same nature. 
+The result of one recursion is the input for the next recursion.The replacement is in the self-similar fashion.
+The algorithm calls itself with smaller input values and obtains the results by simply performing the operations on these smaller values.
+Generation of factorial, Fibonacci number series are the examples of recursive algorithms.
